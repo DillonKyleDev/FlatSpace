@@ -8,7 +8,7 @@ This is a mini game made using the "FlatEngine" game engine.  It features spaces
 
 ## To Play ##
 
-The version available above is outdated.  For the full v1.0 release version download the latest Release from the right-hand sidebar in "Releases"
+This repo contains the Engine used to develop this version of FlatSpace, not the actual release build itself.  For the full v1.0 release version of the game, download the latest Release from the right-hand sidebar in "Releases"
 
 1. Download the zip file and extract
 2. Open the Runtime folder
