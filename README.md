@@ -1,4 +1,5 @@
-![Screenshot 2024-11-26 220559](https://github.com/user-attachments/assets/e2de6e55-8e8b-46ef-95fe-51ff5473b3d3)
+
+![Screenshot 2024-11-26 220559](https://github.com/user-attachments/assets/398f5668-ef66-4738-af28-98355ed17db3)
 
 ## FlatSpace
 
@@ -8,7 +9,7 @@ This is a mini game made using the "FlatEngine" game engine.  It features spaces
 
 ## To Play ##
 
-This repo contains the Engine used to develop this version of FlatSpace, not the actual release build itself.  For the full v1.0 release version of the game, download the latest Release from the right-hand sidebar in "Releases"
+This repo contains the Engine editor used to develop this version of FlatSpace, not the actual release build itself.  For the full v1.0 release version of the game, download the latest Release from the right-hand sidebar in "Releases"
 
 1. Download the zip file and extract
 2. Open the Runtime folder
@@ -23,6 +24,7 @@ Space - shoot blaster
 
 # Screenshots #
 
-![Screenshot 2024-11-26 220539](https://github.com/user-attachments/assets/10532ff3-7d32-4432-b38a-02421636d5b5)
-![Screenshot 2024-11-26 220820](https://github.com/user-attachments/assets/b01c0811-41e1-44f1-abf3-33c8938d2b24)
-![Screenshot 2024-11-26 220834](https://github.com/user-attachments/assets/4809c8db-88ff-490d-a951-fe0cb05e3478)
+
+![Screenshot 2024-11-26 220834](https://github.com/user-attachments/assets/47f72d59-41f1-407b-a874-3d7afcaa9d47)
+![Screenshot 2024-11-26 220820](https://github.com/user-attachments/assets/519c44a0-daaa-40ee-8aa7-3e7ba505c48b)
+![Screenshot 2024-11-26 220539](https://github.com/user-attachments/assets/4a5a6eba-9e01-430a-afc2-f6383b132eba)
